@@ -1,0 +1,11 @@
+
+.image-bg-earth {
+  background-image: url("../img/earth.png");
+  width: 200px;
+  height: 200px;
+}
+.image-bg-svg {
+  background-image: url("../img/yangchen.svg");
+  width: 200px;
+  height: 200px;
+}
